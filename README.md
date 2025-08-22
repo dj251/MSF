@@ -5,6 +5,6 @@ This repository documents my learning journey through various coursework and sel
 
 -> Independent projects inspired by topics I found interesting online
 
--> Includes te work I'm carrying out at White Lion
+-> Includes the work I'm carrying out at White Lion
 
 The goal of this repository is to showcase my practical understanding of key concepts and to track my progress in applying them through hands-on work.
